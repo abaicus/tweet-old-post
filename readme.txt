@@ -10,7 +10,7 @@ Automatically share your WordPress posts on Twitter, Facebook, LinkedIn. Get mor
 
 == Description ==
 
-### Hhat does this plugin do?
+### What does this plugin do?
 
 This plugin (ROP) helps you keep your old posts alive by automatically sharing them and driving more traffic to them from Social Networks. It also helps you to promote your content. You can set sharing interval and number of posts to share to drive more traffic. For questions, comments, or feature requests, <a href="http://revive.social/support/?utm_source=readmetop&utm_medium=announce&utm_campaign=top">contact us</a>!
 
